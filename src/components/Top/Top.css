@@ -1,0 +1,12 @@
+#title{
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+}
+
+.typed-cursor {
+   animation: typedjsBlink 4.5s infinite;
+   animation:  4.5s infinite;
+   color: #FFCC00;
+}
